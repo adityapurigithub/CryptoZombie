@@ -10,46 +10,46 @@ const Section6 = () => {
           updating it based on your feedback.
         </span>
       </div>
-      <div className="flex flex-col justify-center md:flex-row">
+      <div className="flex flex-col gap-5 md:gap-2 md:flex-row justify-center">
         <div className="flex flex-col justify-between border-l border-dashed px-2 md:w-1/3 ">
-          <span className="text-lg text-gray-200 mb-4 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 mb-4 font-semibold px-3  before:content-['🟢'] before:relative before:right-8 ">
             Migrate the CZ Telegram room to our community chat
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Reputation Points Participation Rewards
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Launch CZ Token on the BNB chain
           </span>
-          <span className="text-lg text-gray-200 mt-4 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 mt-4 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Host More Live Events
           </span>
         </div>
 
         <div className="flex flex-col justify-between border-l border-dashed px-2 md:w-1/3">
-          <span className="text-lg text-gray-200 mb-4 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 mb-4 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Deploy CZ Token bridge
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Launch "Code Together" Expand the CZ Course Offering Premium Courses
             NFT Collection
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             CZ Testnet
           </span>
         </div>
 
         <div className="flex flex-col justify-between border-l border-dashed px-2 md:w-1/3">
-          <span className="text-lg text-gray-200 mb-4 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 mb-4 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             NFT Marketplace (Testnet)
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             CZ Mainnet
           </span>
-          <span className="text-lg text-gray-200 my-5 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 my-5 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Staking Token Bridge (Mainnet) NFT Bridge (Mainnet)
           </span>
-          <span className="text-lg text-gray-200 mt-4 font-semibold px-3 ">
+          <span className="text-lg text-gray-200 mt-4 font-semibold px-3 before:content-['🟢'] before:relative before:right-8 ">
             Q&A Board Jobs Board iPad Support
           </span>
         </div>
