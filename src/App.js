@@ -17,7 +17,7 @@ import Section9 from "./components/Sections/Section9";
 
 function App() {
   return (
-    <div className="dark:bg-slate-800 text-white max-h-screen overflow-y-auto">
+    <div className="bg-slate-900 text-white max-h-screen overflow-y-auto">
       <Nav />
       <div className="sections w-100 mx-auto md:px-20 px-10">
         <Section1 />
