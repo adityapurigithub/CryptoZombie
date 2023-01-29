@@ -10,8 +10,8 @@ const Section7 = () => {
           interact with the CZ community.
         </span>
       </div>
-      <div className="section-2 flex flex-col md:flex-row justify-center items-center my-8">
-        <div className="flex flex-col items-start md:w-2/3 md:px-9">
+      <div className="section-2 flex flex-col md:flex-row justify-center items-center my-8 md:text-start text-center">
+        <div className="flex flex-col md:items-start items-center md:w-2/3 md:px-9">
           <span className="md:text-5xl text-2xl font-bold p-2">
             Token Rewards Play to Earn
           </span>
@@ -27,7 +27,7 @@ const Section7 = () => {
             other students using chat, audio, or video.
           </span>
         </div>
-        <div className="w-1/2 flex justify-center">
+        <div className="md:w-1/2 flex justify-center">
           <img src="https://cryptozombies.io/images/Group%201393.png" />
         </div>
       </div>

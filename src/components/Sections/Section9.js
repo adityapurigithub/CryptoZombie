@@ -3,7 +3,7 @@ import React from "react";
 const Section9 = () => {
   return (
     <div className="section9 flex flex-col md:flex-row justify-center items-center my-10 text-center md:text-left">
-      <div className="flex flex-col items-start md:w-2/3 px-4 md:px-9 text-lg">
+      <div className="flex flex-col items-center md:items-start md:w-2/3 px-4 md:px-9 text-lg">
         <span className="md:text-5xl text-2xl font-bold p-2">
           Zombie BattleGround Cards
         </span>

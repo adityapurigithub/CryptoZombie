@@ -3,10 +3,10 @@ import React from "react";
 const Section8 = () => {
   return (
     <div className="section8 flex flex-col md:flex-row justify-center items-center my-36 md:text-start text-center">
-      <div className="md:w-1/2 flex justify-center">
+      <div className="md:w-1/2 flex justify-center md:ml-0 ml-9">
         <img src="https://cryptozombies.io/images/Group.png" />
       </div>
-      <div className="flex flex-col items-start md:w-2/3 md:px-9 ">
+      <div className="flex flex-col md:items-start items-center md:w-2/3 md:px-9 ">
         <span className="md:text-5xl text-2xl font-bold text-center p-2">
           Why token is Important
         </span>
